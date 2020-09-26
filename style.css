@@ -9,6 +9,13 @@
 
 .box{
     width: 300px;
-    height: 500px;
-    background-color: yellow;
+    height: 300px;
+    background-color: rgb(160, 160, 140);
+    border-radius: 1rem;
+    color: white;
+}
+
+h1{
+    color:blue;
+    text-align: center;
 }
